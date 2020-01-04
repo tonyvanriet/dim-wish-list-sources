@@ -1,3 +1,28 @@
+title: Higgs' Wishlist
+
+// demolitionist,osmosis 3523296417,1774574192
+// feeding frenzy,multi-kill clip 2779035018,2458213969
+// field prep,lead from gold 2869569095,1556840489
+
+// Elatha FR4 quickdraw, backup plan
+dimwishlist:item=4106983932&perks=706527188,1600092898
+
+// Breachlight
+// demo, osmo
+dimwishlist:item=1289997971&perks=3523296417,1774574192
+// feeding frenzy, multi-kill clip
+dimwishlist:item=1289997971&perks=2779035018,2458213969
+
+// Steelfeather Repeater feeding frenzy, multi-kill clip
+dimwishlist:item=1251729046&perks=2779035018,2458213969
+
+// Martyr's Retribution
+// auto-loading holder, demolitionist
+dimwishlist:item=3850168899&perks=3300816228,3523296417
+dimwishlist:item=3850168899&perks=3300816228,1556840489
+dimwishlist:item=3850168899&perks=2869569095,1556840489
+
+
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, @chrisfried, and @sundevour for their contributions. Ping u/48klocs / @48klocs with any issues.
 
