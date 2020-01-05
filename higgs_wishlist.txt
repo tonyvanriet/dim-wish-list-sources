@@ -1,23 +1,48 @@
-title: Higgs' Wishlist
+title:Higgs' Wishlist
+description:meh
+
+//notes:❤️💚💙💛💜❤️💚💙💛💜
+
+// Higgs' Wishlist
 
 // demolitionist,osmosis 3523296417,1774574192
 // feeding frenzy,multi-kill clip 2779035018,2458213969
+// outlaw,multi-kill clip 1168162263,2458213969
 // field prep,lead from gold 2869569095,1556840489
+// full auto,explosive payload 4267945040,3038247973
+// field prep, full court 2869569095,2888557110
+
 
 // Elatha FR4 quickdraw, backup plan
-dimwishlist:item=4106983932&perks=706527188,1600092898
+dimwishlist:item=4106983932&perks=706527188,1600092898#notes:❤️💚💙💛💜
 
 // Breachlight
 // demo, osmo
-dimwishlist:item=1289997971&perks=3523296417,1774574192
-// feeding frenzy, multi-kill clip
-dimwishlist:item=1289997971&perks=2779035018,2458213969
+dimwishlist:item=1289997971&perks=3523296417,1774574192#notes:❤️💚💙💛💜
+// outlaw, multi-kill clip
+dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:❤️💚💙💛💜
 
 // Steelfeather Repeater feeding frenzy, multi-kill clip
-dimwishlist:item=1251729046&perks=2779035018,2458213969
+dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:❤️💚💙💛💜
 
 // Martyr's Retribution
 // auto-loading holder, demolitionist
-dimwishlist:item=3850168899&perks=3300816228,3523296417
-dimwishlist:item=3850168899&perks=3300816228,1556840489
-dimwishlist:item=3850168899&perks=2869569095,1556840489
+dimwishlist:item=3850168899&perks=3300816228,3523296417#notes:❤️💚💙💛💜
+// auto-loading holder, lead from gold
+dimwishlist:item=3850168899&perks=3300816228,1556840489#notes:❤️💚💙💛💜
+// field prep, lead from gold
+dimwishlist:item=3850168899&perks=2869569095,1556840489#notes:❤️💚💙💛💜
+
+// Perfect Paradox
+// trench barrel
+dimwishlist:item=3393519051&perks=2360754333#notes:❤️💚💙💛💜
+
+// Patron of Lost Causes
+// full auto, explosive payload
+dimwishlist:item=2723241847&perks=4267945040,3038247973#notes:❤️💚💙💛💜
+// rapid hit, opening shot
+dimwishlist:item=2723241847&perks=247725512,47981717#notes:❤️💚💙💛💜
+
+// Love and Death
+// spike grenades, field prep, full court
+dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes:❤️💚💙💛💜
