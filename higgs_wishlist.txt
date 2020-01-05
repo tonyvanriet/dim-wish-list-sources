@@ -34,14 +34,24 @@ dimwishlist:item=3850168899&perks=3300816228,1556840489#notes:❤️💚💙💛
 dimwishlist:item=3850168899&perks=2869569095,1556840489#notes:❤️💚💙💛💜
 
 // Perfect Paradox
-// trench barrel
-dimwishlist:item=3393519051&perks=2360754333#notes:❤️💚💙💛💜
+// trench barrel with field prep, slideshot, or demolitionist
+dimwishlist:item=3393519051&perks=2869569095,2360754333#notes:❤️💚💙💛💜
+dimwishlist:item=3393519051&perks=3161816588,2360754333#notes:❤️💚💙💛💜
+dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:❤️💚💙💛💜
+// one-two punch with field prep, slideshot, or demolitionist
+dimwishlist:item=3393519051&perks=2869569095,2679249093#notes:❤️💚💙💛💜
+dimwishlist:item=3393519051&perks=3161816588,2679249093#notes:❤️💚💙💛💜
+dimwishlist:item=3393519051&perks=3523296417,2679249093#notes:❤️💚💙💛💜
 
 // Patron of Lost Causes
 // full auto, explosive payload
 dimwishlist:item=2723241847&perks=4267945040,3038247973#notes:❤️💚💙💛💜
 // rapid hit, opening shot
 dimwishlist:item=2723241847&perks=247725512,47981717#notes:❤️💚💙💛💜
+
+// Gallant Charge
+// demolitionist, lead from gold
+dimwishlist:item=1706206669&perks=3523296417,1556840489#notes:❤️💚💙💛💜
 
 // Love and Death
 // spike grenades, field prep, full court
