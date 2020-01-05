@@ -36026,7 +36026,7 @@ dimwishlist:item=-2105827099#notes:Bad Repuketation 🤢🤢🤢 (Antiope is ide
 dimwishlist:item=-4227181568#notes:Exit Pukegy 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
 dimwishlist:item=-1865351684#notes:The Hero's Pukeden 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
 dimwishlist:item=-2909905776#notes:The Hero's Pukeden 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
- 
+
 // lightweight SMGs
 dimwishlist:item=-174192097#notes:CALUS Mini-Puke 🤢🤢🤢 (Garbage perks, very strong competition)
 
@@ -36040,17 +36040,17 @@ dimwishlist:item=-1960218487#notes:Nameless Pukenight 🤢🤢🤢 (no reason to
 dimwishlist:item=-3040742682#notes:Nameless Pukenight 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
 dimwishlist:item=-20025671#notes:Pukego-45 XK5094 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
 dimwishlist:item=-2034817450#notes:Distant Repuketion 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
- 
+
 //lightweight scout rifle
 dimwishlist:item=-3242168339#notes:Vouchpuke 🤢🤢🤢 (bad perks but it *is* unique in slot)
- 
+
 //lightweight pulse rifle
 dimwishlist:item=-339163900#notes:Nightpuke 🤢🤢🤢 (Chattering Bone is just better, weak archetype)
 dimwishlist:item=-792755504#notes:Nightpuke 🤢🤢🤢 (Chattering Bone is just better, weak archetype)
 
 // high-impact auto rifle
 dimwishlist:item=-1952163498#notes:Plupukefect 🤢🤢🤢 (all-around worse stats and perks than Halfdan or Gahlran's Right Hand)
- 
+
 // precision auto rifle
 dimwishlist:item=-528834068#notes:BrayTech Pukewolf 🤢🤢🤢 (just a bad archetype)
 dimwishlist:item=-3645283765#notes:BrayTech Pukewolf 🤢🤢🤢 (just a bad archetype)
@@ -36106,6 +36106,6 @@ dimwishlist:item=-1496419775 #notes:Puke of Sorrow 🤢🤢🤢 (Weak archetype 
 dimwishlist:item=-66875353#notes:Pukalanche 🤢🤢🤢 (Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways)
 dimwishlist:item=-1220931350#notes:A Puke Memorial 🤢🤢🤢 (Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways)
 dimwishlist:item=-3325778512#notes:A Puke Memorial 🤢🤢🤢 (Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways)
- 
+
 // rapid-fire machine gun
 dimwishlist:item=-3369545945#notes:Tempukal Clause 🤢🤢🤢 (Unless you *really* hate Hammerhead or Bane of Sorrow, this is redundant vs. better guns)
