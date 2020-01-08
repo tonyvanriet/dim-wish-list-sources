@@ -1,7 +1,5 @@
 title:Higgs' Wishlist
-description:meh
-
-//notes:❤️💚💙💛💜❤️💚💙💛💜
+description:yup
 
 // Higgs' Wishlist
 
@@ -13,6 +11,8 @@ description:meh
 // field prep, full court 2869569095,2888557110
 // auto-loading holster, lead from gold 3300816228,1556840489
 
+//notes:❤️💚💙💛💜❤️💚💙💛💜
+// supposed to be global notes, but I don't see them anywhere
 
 // Elatha FR4 quickdraw, backup plan
 dimwishlist:item=4106983932&perks=706527188,1600092898#notes:❤️💚💙💛💜
