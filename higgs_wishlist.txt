@@ -11,6 +11,7 @@ description:meh
 // field prep,lead from gold 2869569095,1556840489
 // full auto,explosive payload 4267945040,3038247973
 // field prep, full court 2869569095,2888557110
+// auto-loading holster, lead from gold 3300816228,1556840489
 
 
 // Elatha FR4 quickdraw, backup plan
@@ -26,9 +27,9 @@ dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:❤️💚💙💛
 dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:❤️💚💙💛💜
 
 // Martyr's Retribution
-// auto-loading holder, demolitionist
+// auto-loading holster, demolitionist
 dimwishlist:item=3850168899&perks=3300816228,3523296417#notes:❤️💚💙💛💜
-// auto-loading holder, lead from gold
+// auto-loading holster, lead from gold
 dimwishlist:item=3850168899&perks=3300816228,1556840489#notes:❤️💚💙💛💜
 // field prep, lead from gold
 dimwishlist:item=3850168899&perks=2869569095,1556840489#notes:❤️💚💙💛💜
@@ -52,6 +53,8 @@ dimwishlist:item=2723241847&perks=247725512,47981717#notes:❤️💚💙💛�
 // Gallant Charge
 // demolitionist, lead from gold
 dimwishlist:item=1706206669&perks=3523296417,1556840489#notes:❤️💚💙💛💜
+// auto-loading holster, lead from gold
+dimwishlist:item=1706206669&perks=3300816228,1556840489#notes:❤️💚💙💛💜
 
 // Love and Death
 // spike grenades, field prep, full court
