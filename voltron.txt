@@ -17,6 +17,11 @@ description:yup
 // Elatha FR4 quickdraw, backup plan
 dimwishlist:item=4106983932&perks=706527188,1600092898#notes:❤️💚💙💛💜
 
+// Erentil FR4 - Long Zoom, Firmly Planted
+dimwishlist:item=3027844941&perks=194952923,280464955#notes:❤️💚💙💛💜
+dimwishlist:item=3027844941&perks=194952922,280464955#notes:❤️💚💙💛💜
+dimwishlist:item=3027844941&perks=194952921,280464955#notes:❤️💚💙💛💜
+
 // Breachlight
 // demo, osmo
 dimwishlist:item=1289997971&perks=3523296417,1774574192#notes:❤️💚💙💛💜
