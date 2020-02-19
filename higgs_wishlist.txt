@@ -27,6 +27,8 @@ dimwishlist:item=3027844941&perks=194952921,280464955#notes:❤️💚💙💛�
 dimwishlist:item=1289997971&perks=3523296417,1774574192#notes:❤️💚💙💛💜
 // outlaw, multi-kill clip
 dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:❤️💚💙💛💜
+// demo, quickdraw
+dimwishlist:item=1289997971&perks=3523296417,706527188#notes:❤️💚💙💛💜
 
 // Steelfeather Repeater feeding frenzy, multi-kill clip
 dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:❤️💚💙💛💜
@@ -64,3 +66,7 @@ dimwishlist:item=1706206669&perks=3300816228,1556840489#notes:❤️💚💙💛
 // Love and Death
 // spike grenades, field prep, full court
 dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes:❤️💚💙💛💜
+
+// Bygones
+// any kill clip
+dimwishlist:item=2712244741&perks=1015611457#notes:❤️💚💙💛💜
